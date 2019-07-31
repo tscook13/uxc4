@@ -1,0 +1,11 @@
+@import url("/css/normalize.css");
+@import url("/css/main.css");
+@import url("https://use.typekit.net/uif0rgv.css");
+
+.maintext {
+  
+}
+
+p {
+  padding:5%;
+}
